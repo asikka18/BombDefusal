@@ -1,0 +1,7 @@
+Main screen turn on
+1 2 3 1 2 3
+1 550
+0 Zero_Wing
+cbbbbd
+167
+35
